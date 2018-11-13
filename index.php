@@ -555,10 +555,8 @@
                             <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Work process</h4>
                             <h2 class="landing-block-node-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-white g-mb-minus-10">Step by step</h2>
                         </div>
-
                         <div class="landing-block-node-text g-color-gray-light-v2"><p>Since we know that Hurry Hurry never never has any blessings, we always take a step by step approach to developing your digital solution. Involving you at each and every stage of the development process.</p></div>
                     </div>
-
                     <div class="container">
                         <div class="row"><div class="landing-block-card js-animation fadeIn col-lg-6 g-px-30 g-mb-10">
                                 <div class="landing-block-card-container g-pos-rel g-parent g-theme-business-bg-blue-dark-v2 g-py-35 g-px-25 g-pl-70--sm">
@@ -570,7 +568,6 @@
                                             </span>
                                         </div>
                                     </div>
-
                                     <h3 class="landing-block-node-element-title h5 text-uppercase g-color-gray-light-v2 g-mb-10">Step 1. aNALYSIS</h3>
                                     <div class="landing-block-node-element-text g-color-gray-light-v2"><p>Being the Home of solutions, we know that you have a good understanding of what you want. We therefore sit with you in our sitting room and have you tell us what you want as we advise on the best approach to have it done</p></div>
                                 </div>
@@ -584,7 +581,6 @@
                                             </span>
                                         </div>
                                     </div>
-
                                     <h3 class="landing-block-node-element-title h5 text-uppercase g-color-gray-light-v2 g-mb-10">Step 3. iMPLEMENTATION</h3>
                                     <div class="landing-block-node-element-text g-color-gray-light-v2"><p>Using the best and current technologies, love and experience from our stores as the main ingredients, we get into our aromatic kitchen and  develop for you a solution that will ensure that you are fully satisfied.</p></div>
                                 </div>
@@ -598,7 +594,6 @@
                                             </span>
                                         </div>
                                     </div>
-
                                     <h3 class="landing-block-node-element-title h5 text-uppercase g-color-gray-light-v2 g-mb-10">Step 2. cONCEPTUAL DESIGN</h3>
                                     <div class="landing-block-node-element-text g-color-gray-light-v2"><p>With our most experienced and talented designers and you by our side, we sit in the balcony, sipping a cup of coffee accompanied by the cool breeze from the lake and  come up with the most appropriate conceptual design of the digital solution that we will offer you. </p></div>
                                 </div>
@@ -612,113 +607,86 @@
                                             </span>
                                         </div>
                                     </div>
-
                                     <h3 class="landing-block-node-element-title h5 text-uppercase g-color-gray-light-v2 g-mb-10">Step 4. MAINTENANCE</h3>
                                     <div class="landing-block-node-element-text g-color-gray-light-v2"><p>We don't just develop for you and leave you with a good  system, On the contrary, we hang around with you to take care of any changes you may need and also to take care of any anomalies. And leave you resting comfortably in our bedroom as you watch our solution do everything you wanted.</p></div>
                                 </div>
                             </div></div>
                     </div>
                 </section></div><div id="block52" class="block-wrapper"><section class="landing-block js-animation fadeInUp g-pb-20 animated g-pt-60 animation-none">
-
                     <div class="container g-max-width-800">
                         <div class="text-center">
                             <h2 class="landing-block-node-title g-font-weight-400">We&#039;ve Done some Amazing Jobs</h2>
                             <div class="landing-block-node-text g-font-size-16 g-pb-1"><p>Experience a level of quality in both design &amp; customization.</p></div>
                         </div>
                     </div>
-
                 </section></div><div id="block54" class="block-wrapper"><section class="landing-block landing-block-node-container g-pt-10 g-pb-20">
                     <div class="container">
                         <div class="row">
-
                             <div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/388/388650c67fe962ea2422ef3f5f4719f7/pms+dboard.png" alt="Property Management System development" data-fileid="100" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://otemainc.com/pms/&quot;,&quot;target&quot;:&quot;_popup&quot;,&quot;enabled&quot;:true}">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: 400;">Property Management System</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Web Application Development</p></div>
                             </div>
-
                             <div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/8d7/8d7e6e8ff85394650a1c7f991ebb78f7/sms.png" alt="School Management System Development" data-fileid="96">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: 400; font-family: inherit; font-size: 1.21429rem;">School Management System </span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Web Application Development</p></div>
                             </div>
-
                             <div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/e42/e424a2ab5429f0f0e271185a9582a51d/library+assistant.png" alt="Library Assistant Manager" data-fileid="98">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: 400;">Library Assistant System</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Desktop Application</p></div>
                             </div>
-
                         </div>
                     </div>
                 </section></div><div id="block56" class="block-wrapper"><section class="landing-block landing-block-node-container g-pt-10 g-pb-20">
                     <div class="container">
                         <div class="row">
-
                             <div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/f89/f895ec085bff04fdd4dc229ebdf740d2/Remit.png" alt="Remit Kenya" data-fileid="410" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;http://remitkenya.co.ke/&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:true}">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: 400;">Remit Kenya website</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Web Design</p></div>
                             </div>
-
                             <div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/ffb/ffb9b5f65f2627770f9329a3e3f98f34/green+ict.png" alt="Green Ict Africa" data-fileid="442" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;http://www.greenictafrica.org/&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:true}">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: 400; font-family: inherit; font-size: 1.21429rem;">Green Ict Africa Website</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Web Design</p></div>
                             </div>
-
                             <div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/4d0/4d0edf207ec124c6a89dad8a1ca2474a/sheripe.png" alt="Sheripe investments" data-fileid="444" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://sheripe.co.ke/&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:true}">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: 400;">Sheripe Investmets Website</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Web Design</p></div>
                             </div>
-
                         </div>
                     </div>
                 </section></div><div id="block338" class="block-wrapper"><section class="landing-block landing-block-node-container g-pt-10 g-pb-20">
                     <div class="container">
                         <div class="row">
-
                             <div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/97d/97d0791d01dcb7761e96bc5761282183/Screenshot_2018-09-20+VYXER+REMIT+KENYA+_+Supreme+Solutions.jpg" alt="Remit Kenya" data-fileid="108">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: 400;">Remit Kenya website</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Web Design</p></div>
                             </div>
-
                             <div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/b23/b2369ff7bf6d305b54efc607df4851ac/landy2.jpg" alt="Landy Cakes" data-fileid="456" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;http://landycakes.com/&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:true}">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: 400;">Landy Cakes website</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">E commerce Design</p></div>
                             </div><div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/e4e/e4e2745d10bea9068145450462c5a293/Screenshot_2018-09-20+Green+ICT+Africa+default_1_.png" alt="Green Ict Africa" data-fileid="106">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: 400; font-family: inherit; font-size: 1.21429rem;">Green Ict Africa Website</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Web Design</p></div>
                             </div>
-
                             <div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/fb8/fb8828e92e00ebe45bc29a6ce934892e/Otema-CARD.png" alt="Business Card" data-fileid="324" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://drive.google.com/file/d/1YUc_08WHgxjeQH6t7uVOqc7ScjU1ymXN/view?usp=sharing&quot;,&quot;target&quot;:&quot;_popup&quot;,&quot;enabled&quot;:false}">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: normal;color: rgb(0, 0, 0);font-family: inherit;">Business card design</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Graphic</p></div>
                             </div>
-
                             <div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/6e9/6e9308a5097f0dc32e3457e08b387828/TosbyCard.png" alt="Business Card" data-fileid="460" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_popup&quot;,&quot;enabled&quot;:false}">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: normal;color: rgb(0, 0, 0);font-family: inherit;">Business card design</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Graphic</p></div>
                             </div><div class="landing-block-card landing-block-node-block col-md-4 g-mb-30 g-mb-0--md g-pt-10 js-animation animation-none">
                                 <img class="landing-block-node-img img-fluid g-mb-30" src="https://cdn.bitrix24.com/b8211411/landing/6fd/6fd3ab86ed4012a8c5eb4f4029d41854/logot.png" alt="Branding" data-fileid="458" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_popup&quot;,&quot;enabled&quot;:false}">
-
                                 <h3 class="landing-block-node-title g-font-weight-700 g-color-black g-mb-20 g-font-size-17 g-text-transform-none"><p style="text-align: center;"><span style="font-weight: 400;">Product Branding</span></p></h3>
                                 <div class="landing-block-node-text"><p style="text-align: center;">Graphic</p></div>
                             </div></div>
@@ -734,7 +702,6 @@
                         </a>
                         <div class="landing-block-node-text lead d-block g-color-white g-font-weight-400 g-font-size-22">We design to impressively solve your problem</div>
                     </div>
-
                     <svg class="g-pos-rel" version="1.1" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="140px" viewbox="20 -20 300 100">
                     <path d="M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729
                           c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z" opacity="0.4" fill="#f0f1f3"></path>
@@ -747,68 +714,55 @@
                     </svg>
                 </section></div><div id="block62" class="block-wrapper"><section class="landing-block container-fluid px-0 g-bg-secondary">
                     <div class="landing-block-inner-container row no-gutters align-items-start">
-
                         <div class="landing-block-card col-md-6 g-flex-centered landing-card col-lg-3 js-animation animation-none">
                             <div class="text-center g-color-gray-light-v2 g-pa-30 w-100">
                                 <div class="landing-block-node-card-header text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
                                     <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20"></h4>
                                     <h2 class="landing-block-node-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-mb-minus-10 g-color-blue g-font-size-32"><span style="font-weight: normal;">№1</span></h2>
                                 </div>
-
                                 <div class="landing-block-node-text g-color-black-opacity-0_5"><p><span style="color: rgb(117, 117, 117);">Tech Solutions provider</span></p></div>
                             </div>
                         </div>
-
                         <div class="landing-block-card col-md-6 g-flex-centered landing-card col-lg-3 js-animation animation-none">
                             <div class="text-center g-color-gray-light-v2 g-pa-30 w-100">
                                 <div class="landing-block-node-card-header text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
                                     <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20"></h4>
                                     <h2 class="landing-block-node-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-mb-minus-10 g-color-blue g-font-size-32"><span style="font-weight: normal;">4</span></h2>
                                 </div>
-
                                 <div class="landing-block-node-text g-color-black-opacity-0_5"><p><span style="color: rgb(117, 117, 117);">Years in Business</span></p></div>
                             </div>
                         </div>
-
                         <div class="landing-block-card col-md-6 g-flex-centered landing-card col-lg-3 js-animation animation-none">
                             <div class="text-center g-color-gray-light-v2 g-pa-30 w-100">
                                 <div class="landing-block-node-card-header text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
                                     <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20"></h4>
                                     <h2 class="landing-block-node-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-mb-minus-10 g-color-blue g-font-size-32"><span style="font-weight: normal;">10</span></h2>
                                 </div>
-
                                 <div class="landing-block-node-text g-color-black-opacity-0_5"><p><span style="color: rgb(117, 117, 117);">Creative Workers</span></p></div>
                             </div>
                         </div>
-
                         <div class="landing-block-card col-md-6 g-flex-centered landing-card col-lg-3 js-animation animation-none">
                             <div class="text-center g-color-gray-light-v2 g-pa-30 w-100">
                                 <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
                                     <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20"></h4>
                                     <h2 class="landing-block-node-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-mb-minus-10 g-color-blue g-font-size-32"><span style="font-weight: normal;">90+</span></h2>
                                 </div>
-
                                 <div class="landing-block-node-text g-color-black-opacity-0_5"><p><span style="color: rgb(117, 117, 117);">Projects Completed</span></p></div>
                             </div>
                         </div></div>
                 </section></div><div id="block94" class="block-wrapper"><section class="landing-block landing-block-node-container g-pt-30 g-pb-20 g-bg-secondary">
                     <div class="container">
-
                         <div class="row no-gutters"><div class="landing-block-card js-animation fadeInUp col-md-4 g-mb-30 g-mb-0--md landing-card col-lg-6 animation-none">
                                 <article class="text-center g-brd-around g-color-gray g-brd-gray-light-v5 g-pa-10">
                                     <div class="g-bg-gray-light-v5 g-pa-30">
                                         <h4 class="landing-block-node-title text-uppercase h5 g-color-gray-dark-v3 g-font-weight-500 g-mb-10 g-color-black-opacity-0_9"><span style="font-weight: 700; color: rgb(49, 27, 146);">STARTER</span></h4>
                                         <div class="landing-block-node-subtitle g-font-style-normal">Web design package</div>
-
                                         <hr class="g-brd-gray-light-v3 g-my-10">
-
                                         <div class="g-color-primary g-my-20">
                                             <div class="landing-block-node-price g-font-size-30 g-line-height-1_2 g-font-size-16"><span style="color: rgb(49, 27, 146);">KES 10000.00</span></div>
                                             <div class="landing-block-node-price-text"><span style="color: rgb(183, 28, 28);">Save KES 5000.00</span></div>
                                         </div>
-
                                         <hr class="g-brd-gray-light-v3 g-mt-10 mb-0">
-
                                         <ul class="landing-block-node-price-list list-unstyled g-mb-25"><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">One year domain and hosting<br></li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Fully Customized design layout
                                             </li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Up to 5 Static html Inner pages
                                             </li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Homepage Banner Animation Slide Show
@@ -826,16 +780,12 @@
                                     <div class="g-bg-gray-light-v5 g-pa-30">
                                         <h4 class="landing-block-node-title text-uppercase h5 g-color-gray-dark-v3 g-font-weight-500 g-mb-10 g-color-black-opacity-0_9"><span style="font-weight: 700; color: rgb(49, 27, 146);">CORPORATE LITE</span></h4>
                                         <div class="landing-block-node-subtitle g-font-style-normal">Web design package</div>
-
                                         <hr class="g-brd-gray-light-v3 g-my-10">
-
                                         <div class="g-color-primary g-my-20">
                                             <div class="landing-block-node-price g-font-size-30 g-line-height-1_2 g-font-size-16"><span style="color: rgb(49, 27, 146);">KES 15000.00</span></div>
                                             <div class="landing-block-node-price-text"><span style="color: rgb(183, 28, 28);">Save KES 10,000.00 </span></div>
                                         </div>
-
                                         <hr class="g-brd-gray-light-v3 g-mt-10 mb-0">
-
                                         <ul class="landing-block-node-price-list list-unstyled g-mb-25"><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5"> All the features of the starter package plus: </li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Up to 20 Pages including Contact Form. 
                                             </li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Sitemap /Visitor counter
                                             </li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Newsletter to customers
@@ -853,16 +803,12 @@
                                     <div class="g-bg-gray-light-v5 g-pa-30">
                                         <h4 class="landing-block-node-title text-uppercase h5 g-color-gray-dark-v3 g-font-weight-500 g-mb-10 g-color-black-opacity-0_9"><span style="font-weight: 700; color: rgb(49, 27, 146);">CORPORATE PRO</span></h4>
                                         <div class="landing-block-node-subtitle g-font-style-normal">Web design package</div>
-
                                         <hr class="g-brd-gray-light-v3 g-my-10">
-
                                         <div class="g-color-primary g-my-20">
                                             <div class="landing-block-node-price g-font-size-30 g-line-height-1_2 g-font-size-16"><span style="color: rgb(49, 27, 146);">KES 30000.00</span></div>
                                             <div class="landing-block-node-price-text"><span style="color: rgb(183, 28, 28);">Save KES 20,000.00</span></div>
                                         </div>
-
                                         <hr class="g-brd-gray-light-v3 g-mt-10 mb-0">
-
                                         <ul class="landing-block-node-price-list list-unstyled g-mb-25"><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">All the features of the corporate lite and starter packages plus:
                                             </li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Up to 50 Dynamic PHP Inner pages
                                             </li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Inner pages Banner Animation Slide Show
@@ -880,19 +826,14 @@
                                     <div class="g-bg-gray-light-v5 g-pa-30">
                                         <h4 class="landing-block-node-title text-uppercase h5 g-color-gray-dark-v3 g-font-weight-500 g-mb-10 g-color-black-opacity-0_9"><span style="font-weight: 700; color: rgb(49, 27, 146);">CUSTOM</span></h4>
                                         <div class="landing-block-node-subtitle g-font-style-normal">Package</div>
-
                                         <hr class="g-brd-gray-light-v3 g-my-10">
-
                                         <div class="g-color-primary g-my-20">
                                             <div class="landing-block-node-price g-font-size-30 g-line-height-1_2 g-font-size-16"><span style="color: rgb(49, 27, 146);">Price depends on requirements</span></div>
                                             <div class="landing-block-node-price-text"><span style="color: rgb(183, 28, 28);">Make great savings</span></div>
                                         </div>
-
                                         <hr class="g-brd-gray-light-v3 g-mt-10 mb-0">
-
                                         <ul class="landing-block-node-price-list list-unstyled g-mb-25"><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Any customized work in php and html </li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Web Portals.</li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Social media platforms</li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Ecommerce development</li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Content management systems</li>
                                             <li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Web application development</li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Desktop application development</li><li class="landing-block-node-price-list-item g-brd-bottom g-brd-gray-light-v3 g-py-12 g-color-black-opacity-0_5">Mobile application development(android, ios, windows)</li></ul>
-
                                         <div class="landing-block-node-price-container">
                                             <a class="landing-block-node-price-button g-color-white-opacity-0_9 btn btn-md text-uppercase u-btn-primary rounded-0 g-px-15" href="#" target="_self">Order Now</a>
                                         </div>
@@ -901,20 +842,15 @@
                             </div></div>
                     </div>
                 </section></div><div id="block98" class="block-wrapper"><section class="landing-block js-animation fadeInUp g-bg-gray-light-v5 g-pt-20 g-pb-20 animation-none">
-
                     <div class="container text-center g-max-width-800 g-mb-20">
-
                         <div class="landing-block-node-inner text-uppercase u-heading-v2-4--bottom g-brd-primary">
                             <h2 class="landing-block-node-subtitle g-font-weight-700 g-font-size-12 g-color-primary g-mb-15"><span style="color: rgb(33, 33, 33);">Our Beloved Clients</span></h2>
                             <h2 class="landing-block-node-title u-heading-v2__title g-line-height-1_1 g-font-weight-700 g-font-size-40 g-color-black g-mb-minus-10"> </h2>
                         </div>
-
                         <div class="landing-block-node-text g-color-gray-dark-v5 g-pb-1"><p><br></p></div>
                     </div>
-
                 </section></div><div id="block66" class="block-wrapper"><section class="landing-block landing-block-node-container js-animation zoomIn text-center g-py-20 animation-none">
                     <div class="container">
-
                         <div class="js-carousel" data-autoplay="true" data-pause-hover="true" data-infinite="true" data-slides-show="6" data-responsive="[{ &quot;breakpoint&quot;: 1200, &quot;settings&quot;: {   &quot;slidesToShow&quot;: 5 }   }, { &quot;breakpoint&quot;: 992, &quot;settings&quot;: {   &quot;slidesToShow&quot;: 4 }   }, { &quot;breakpoint&quot;: 768, &quot;settings&quot;: {   &quot;slidesToShow&quot;: 3 }   }, { &quot;breakpoint&quot;: 576, &quot;settings&quot;: {   &quot;slidesToShow&quot;: 2 }   }]"><div class="landing-block-card-carousel-item js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10">
                                 <a href="#" class="landing-block-card-logo-link" target="_self">
                                     <img class="landing-block-node-carousel-img img-fluid g-max-width-170--md mx-auto" src="https://cdn.bitrix24.com/b8211411/landing/c8a/c8a5aab3f67295f59fc46da9a469ba2d/otemafarm.png" alt="Otema Farm" data-fileid="78" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
@@ -956,10 +892,8 @@
                                     <img class="landing-block-node-carousel-img img-fluid g-max-width-170--md mx-auto" src="https://cdn.bitrix24.com/b8211411/landing/753/75324e8032f68b0b63b3c55889785775/Capture.PNG" alt="Landy Cakes" data-fileid="328" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
                                 </a>
                             </div></div>
-
                     </div>
                 </section></div><div id="block68" class="block-wrapper"><section class="landing-block js-animation fadeInUp g-pb-20 animated g-pt-60 animation-none">
-
                     <div class="container g-max-width-800">
                         <div class="text-center">
                             <h2 class="landing-block-node-title g-font-weight-400">The Creative Team</h2>
@@ -968,11 +902,8 @@
                             </div>
                         </div>
                     </div>
-
                 </section></div><div id="block70" class="block-wrapper"><section class="landing-block js-animation fadeInLeft animation-none">
-
                     <div class="container g-py-20">
-
                         <!-- Carousel -->
                         <div class="js-carousel g-mb-50--lg" data-infinite="true" data-fade="true" data-lazy-load="ondemand" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-45 g-height-45 g-font-size-30 g-color-text g-color-primary--hover" data-arrow-left-classes="fa fa-angle-left g-left-0 g-left-40--lg" data-arrow-right-classes="fa fa-angle-right g-right-0 g-right-40--lg"><div class="landing-block-card-person landing-block-card-top-slider-element js-slide">
                                 <!-- Team -->
@@ -983,9 +914,7 @@
                                             <h3 class="landing-block-node-person-name h4 mb-1">Gordon Brown</h3>
                                             <div class="landing-block-node-person-post"><span>Support Manager</span></div>
                                             <div class="landing-block-node-person-text mb-4"><p>I've got your front end and back end needs covered. I'm always looking for strategies to make your brand's needs fit with today's development languages.</p></div>
-
                                             <a class="landing-block-node-person-link u-link-v5 g-color-text g-color-primary--hover g-font-weight-700" href="#" target="_self">See Projects</a>
-
                                         </div>
                                     </div>
                                 </div>
@@ -999,7 +928,6 @@
                                             <h3 class="landing-block-node-person-name h4 mb-1">Joseph Odhiambo</h3>
                                             <div class="landing-block-node-person-post"><span>Lead Developer</span></div>
                                             <div class="landing-block-node-person-text mb-4"><p>I am a young Kenyan and I am passionate about everything related to software development. I strive to figure out the right solutions for your look to stand out among st the rest.</p></div>
-
                                             <a class="landing-block-node-person-link u-link-v5 g-color-text g-color-primary--hover g-font-weight-700" href="#" target="_self">See Projects</a>
                                         </div>
                                     </div>
@@ -1059,36 +987,27 @@
                                             <h3 class="landing-block-node-person-name h4 mb-1">Mercy</h3>
                                             <div class="landing-block-node-person-post"><span>Sales Manager</span></div>
                                             <div class="landing-block-node-person-text mb-4"><p>I aim high at being focused on building relationships with our clients and community.</p></div>
-
                                             <!-- Social Icons -->
                                             <!-- End Social Icons -->
-
                                             <a class="landing-block-node-person-link u-link-v5 g-color-text g-color-primary--hover g-font-weight-700" href="#" target="_self">See Projects</a>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- End Team -->
                             </div></div>
-
                         <div class="carContTest"></div>
                         <!-- End Carousel -->
-
                     </div>
-
                 </section></div><div id="block72" class="block-wrapper"><section class="landing-block js-animation fadeInUp g-pb-20 animated g-pt-60 g-bg-secondary animation-none">
-
                     <div class="container g-max-width-800">
                         <div class="text-center">
                             <h2 class="landing-block-node-title g-font-weight-400">Client Testimonials</h2>
                             <div class="landing-block-node-text g-font-size-16 g-pb-1"><p>Otema is trusted by over 100 companies all around the world.</p></div>
                         </div>
                     </div>
-
                 </section></div><div id="block74" class="block-wrapper"><section class="landing-block js-animation zoomIn animation-none">
-
                     <div>
                         <div class="container g-py-40">
-
                             <div class="js-carousel g-pb-60" data-infinite="true" data-autoplay="true" data-pause-hover="true" data-speed="7000" data-lazy-load="progressive" data-slides-show="3" data-pagi-classes="u-carousel-indicators-v1 g-absolute-centered--x g-bottom-0 text-center" data-responsive="[{ &quot;breakpoint&quot;: 1200, &quot;settings&quot;: {   &quot;slidesToShow&quot;: 3 }   }, { &quot;breakpoint&quot;: 992, &quot;settings&quot;: {   &quot;slidesToShow&quot;: 2 }   }, { &quot;breakpoint&quot;: 768, &quot;settings&quot;: {   &quot;slidesToShow&quot;: 2 }   }, { &quot;breakpoint&quot;: 576, &quot;settings&quot;: {   &quot;slidesToShow&quot;: 1 }   }]"><div class="landing-block-card-slider-element js-slide g-px-15 mb-1">
                                     <blockquote class="landing-block-node-element-text u-blockquote-v8 g-font-weight-300 g-font-size-15 rounded g-pa-25 g-mb-25">Dear Otema team, I just bought your property management system some months ago. The design and functionality is really nice and
                                         offers quite a large set of options. I also love the support you offer. Keep it up</blockquote>
@@ -1138,7 +1057,6 @@
                                 </div></div>
                         </div>
                     </div>
-
                 </section></div><div id="block80" class="block-wrapper"><section class="landing-block landing-block-img g-bg-size-cover g-bg-pos-center" style="background-image: url(https://cdn.bitrix24.site/bitrix/images/landing/business/1920x800/img1.jpg);">
                     <div class="g-max-width-800 container text-center g-pos-rel g-z-index-1 mx-auto g-px-30 g-py-120">
                         <h2 class="landing-block-title h1 g-font-weight-400 mb-5 g-color-black js-animation animation-none">Otema completes every project with an experienced hand.</h2>
@@ -1155,10 +1073,7 @@
 
                                 <address class="g-color-gray-dark-v2 g-mb-20">
                                 </address>
-
                             </div>
-
-
                             <div class="col-sm-12 col-md-2 col-lg-2 g-mb-25 g-mb-0--lg">
                                 <h2 class="landing-block-node-title text-uppercase g-font-weight-700 g-font-size-16 g-mb-20">Contacts</h2>
                                 <ul class="landing-block-card-list1 list-unstyled g-mb-30">
@@ -1168,11 +1083,8 @@
                                     <li class="landing-block-card-list1-item g-mb-10">
                                         <a class="landing-block-node-list-item g-color-gray-dark-v5" href="info@otemainc.com" target="_popup">Email:   info@otemainc.com</a>
                                     </li>
-
-
                                 </ul>
                             </div>
-
                             <div class="col-sm-12 col-md-2 col-lg-2 g-mb-25 g-mb-0--lg">
                                 <h2 class="landing-block-node-title text-uppercase g-font-weight-700 g-font-size-16 g-mb-20">DEPARTMENTS</h2>
                                 <ul class="landing-block-card-list2 list-unstyled g-mb-30">
@@ -1185,20 +1097,16 @@
                                     <li class="landing-block-card-list2-item g-mb-10">
                                         <a class="landing-block-node-list-item g-color-gray-dark-v5" href="#" target="_self">Customer Department</a>
                                     </li>
-
                                     <li class="landing-block-card-list2-item g-mb-10">
                                         <a class="landing-block-node-list-item g-color-gray-dark-v5" href="#" target="_self">IT Department</a>
                                     </li></ul>
                             </div>
-
                             <div class="col-sm-12 col-md-2 col-lg-2 g-mb-25 g-mb-0--lg">
                                 <h2 class="landing-block-node-title text-uppercase g-font-weight-700 g-font-size-16 g-mb-20">Additional Links</h2>
                                 <ul class="landing-block-card-list3 list-unstyled g-mb-30">
                                     <li class="landing-block-card-list3-item g-mb-10">
                                         <a class="landing-block-node-list-item g-color-gray-dark-v5" href="#" target="_self">Vacancies</a>
                                     </li>
-
-
                                     <li class="landing-block-card-list3-item g-mb-10">
                                         <a class="landing-block-node-list-item g-color-gray-dark-v5" href="#" target="_self">General FAQs</a>
                                     </li>
@@ -1209,7 +1117,6 @@
                     </div>
                 </section>
             </div>
-
         </div>
     </main>
     <div class="bitrix-footer">
@@ -1233,7 +1140,8 @@
                     for (var i in mess)
                         BX.message[i] = mess[i];
                 return true;
-            };</script>
+            };
+    </script>
     <script type="text/javascript">(window.BX || top.BX).message({'JS_CORE_LOADING': 'Loading...', 'JS_CORE_WINDOW_CLOSE': 'Close', 'JS_CORE_WINDOW_EXPAND': 'Expand', 'JS_CORE_WINDOW_NARROW': 'Restore', 'JS_CORE_WINDOW_SAVE': 'Save', 'JS_CORE_WINDOW_CANCEL': 'Cancel', 'JS_CORE_H': 'h', 'JS_CORE_M': 'm', 'JS_CORE_S': 's', 'JS_CORE_NO_DATA': '- No data -', 'JSADM_AI_HIDE_EXTRA': 'Hide extra items', 'JSADM_AI_ALL_NOTIF': 'All notifications', 'JSADM_AUTH_REQ': 'Authentication is required!', 'JS_CORE_WINDOW_AUTH': 'Log In', 'JS_CORE_IMAGE_FULL': 'Full size', 'JS_CORE_WINDOW_CONTINUE': 'Continue'});</script>
     <script type="text/javascript">(window.BX || top.BX).message({'LANGUAGE_ID': 'en', 'FORMAT_DATE': 'MM/DD/YYYY', 'FORMAT_DATETIME': 'MM/DD/YYYY H:MI:SS T', 'COOKIE_PREFIX': 'BITRIX_SM', 'SERVER_TZ_OFFSET': '10800', 'SITE_ID': 's1', 'SITE_DIR': '/', 'USER_ID': '', 'SERVER_TIME': '1541089623', 'USER_TZ_OFFSET': '0', 'USER_TZ_AUTO': 'Y', 'bitrix_sessid': '28b98d73ffa005fc63636f6208d777b8'});</script><script type="text/javascript" src="resources\js\main\core\core.min.js?153815138575710"></script>
     <script type="text/javascript" src="resources\js\main\core\core_promise.min.js?15381513852478"></script>
@@ -1270,7 +1178,6 @@
     <script type="text/javascript" src="resources\templates\landing24\assets\js\components\hs.carousel.min.js?15382278854013"></script>
     <script type="text/javascript" src="resources\templates\landing24\assets\js\helpers\carousel_helper.min.js?15382278852931"></script>
     <script type="text/javascript" src="resources\templates\landing24\assets\js\helpers\base_carousel_init.min.js?15382278851370"></script>
-
     <script>
         BX.ready(function () {
             var elements = [].slice.call(document.querySelectorAll("h1, h2, h3, h4, h5"));
