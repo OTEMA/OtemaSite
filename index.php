@@ -1206,7 +1206,7 @@
         </main>
         <div class="bitrix-footer">
             <span class="bitrix-footer-text">Powered by</span>
-            <img class="bitrix-footer-logo" src="bitrix\components\bitrix\landing.pub\templates\.default\images\en.svg" alt="Bitrix24">
+            <img class="bitrix-footer-logo" src="resources\components\bitrix\landing.pub\templates\.default\images\en.svg" alt="Bitrix24">
             <span class="bitrix-footer-text">&mdash; Free websites and CRM.</span>
             <a class="bitrix-footer-link" target="_blank" href="https://bitrix24.com/?utm_medium=referral&utm_source=bitrix24.com&utm_campaign=SitesCom">Create Your Site</a>
         </div><script type="text/javascript">if (!window.BX)
@@ -1217,7 +1217,7 @@
                         for (var i in mess)
                             BX.message[i] = mess[i]; return true;};</script>
         <script type="text/javascript">(window.BX || top.BX).message({'JS_CORE_LOADING': 'Loading...', 'JS_CORE_WINDOW_CLOSE': 'Close', 'JS_CORE_WINDOW_EXPAND': 'Expand', 'JS_CORE_WINDOW_NARROW': 'Restore', 'JS_CORE_WINDOW_SAVE': 'Save', 'JS_CORE_WINDOW_CANCEL': 'Cancel', 'JS_CORE_H': 'h', 'JS_CORE_M': 'm', 'JS_CORE_S': 's', 'JS_CORE_NO_DATA': '- No data -', 'JSADM_AI_HIDE_EXTRA': 'Hide extra items', 'JSADM_AI_ALL_NOTIF': 'All notifications', 'JSADM_AUTH_REQ': 'Authentication is required!', 'JS_CORE_WINDOW_AUTH': 'Log In', 'JS_CORE_IMAGE_FULL': 'Full size', 'JS_CORE_WINDOW_CONTINUE': 'Continue'});</script>
-        <script type="text/javascript">(window.BX || top.BX).message({'LANGUAGE_ID': 'en', 'FORMAT_DATE': 'MM/DD/YYYY', 'FORMAT_DATETIME': 'MM/DD/YYYY H:MI:SS T', 'COOKIE_PREFIX': 'BITRIX_SM', 'SERVER_TZ_OFFSET': '10800', 'SITE_ID': 's1', 'SITE_DIR': '/', 'USER_ID': '', 'SERVER_TIME': '1541089623', 'USER_TZ_OFFSET': '0', 'USER_TZ_AUTO': 'Y', 'bitrix_sessid': '28b98d73ffa005fc63636f6208d777b8'});</script><script type="text/javascript" src="bitrix\js\main\core\core.min.js?153815138575710"></script>
+        <script type="text/javascript">(window.BX || top.BX).message({'LANGUAGE_ID': 'en', 'FORMAT_DATE': 'MM/DD/YYYY', 'FORMAT_DATETIME': 'MM/DD/YYYY H:MI:SS T', 'COOKIE_PREFIX': 'BITRIX_SM', 'SERVER_TZ_OFFSET': '10800', 'SITE_ID': 's1', 'SITE_DIR': '/', 'USER_ID': '', 'SERVER_TIME': '1541089623', 'USER_TZ_OFFSET': '0', 'USER_TZ_AUTO': 'Y', 'bitrix_sessid': '28b98d73ffa005fc63636f6208d777b8'});</script><script type="text/javascript" src="resources\js\main\core\core.min.js?153815138575710"></script>
         <script type="text/javascript" src="resources\js\main\core\core_promise.min.js?15381513852478"></script>
         <script type="text/javascript" src="resources\js\main\polyfill\promise\js\promise.min.js?15362428572213"></script>
         <script type="text/javascript" src="resources\js\main\loadext\loadext.min.js?1536242856717"></script>
