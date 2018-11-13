@@ -1,152 +1,165 @@
 ﻿<!DOCTYPE html>
 <html xml:lang="en" lang="en" class="">
-    <head>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Otema</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <!-- Google Fonts -->
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-open-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&subset=cyrillic">
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-roboto" data-protected="true" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=cyrillic,cyrillic-ext,latin-ext">
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-roboto-slab" data-protected="true" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&subset=cyrillic,cyrillic-ext,latin-ext">
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-ek-mukta" data-protected="true" href="https://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700">
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-montserrat" data-protected="true" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,900&subset=cyrillic">
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-alegreya-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700,900&subset=cyrillic-ext,latin-ext">
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-cormorant-infant" data-protected="true" href="https://fonts.googleapis.com/css?family=Cormorant+Infant:400,400i,600,600i,700,700i&subset=cyrillic-ext,latin-ext">
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-pt-sans-caption" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700&subset=cyrillic-ext,latin-ext">
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-pt-sans-narrow" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Sans:400,700&subset=cyrillic-ext,latin-ext">
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-pt-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic-ext,latin-ext">
-        <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-lobster" data-protected="true" href="https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic-ext,latin-ext">
+    <title>Otema|The|Leading|Technologies|services|provider</title>
+    <link rel="icon" type="image/png" href="https://dcnt5qvi2hv76.cloudfront.net/b8211411/resize_cache/48/047e4a127947eff3c7d861cc2f113186/landing/809/8099160196477a4a34f57c2e3a2d7e32/favicon-32x32.png?h=b24-2gmasb.bitrix24.com" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://cdn.bitrix24.com/b8211411/landing/809/8099160196477a4a34f57c2e3a2d7e32/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://cdn.bitrix24.com/b8211411/landing/809/8099160196477a4a34f57c2e3a2d7e32/favicon-32x32.png" sizes="96x96">
+    <link rel="apple-touch-icon" href="https://cdn.bitrix24.com/b8211411/landing/809/8099160196477a4a34f57c2e3a2d7e32/favicon-32x32.png" sizes="120x120">
+    <link rel="apple-touch-icon" href="https://cdn.bitrix24.com/b8211411/landing/809/8099160196477a4a34f57c2e3a2d7e32/favicon-32x32.png" sizes="180x180">
+    <link rel="apple-touch-icon" href="https://cdn.bitrix24.com/b8211411/landing/809/8099160196477a4a34f57c2e3a2d7e32/favicon-32x32.png" sizes="152x152">
+    <meta name="og:title" content="Otema">
+    <meta name="description" content="The home of solutions. We are the number one IT solutions provider in the whole of western Kenya. We provide custom Soft wares to solve your problems">
+    <meta name="keywords" content="IT solutions, Website design, ERP systems, MIS,The technology company that understands, Android, Mobile Based Systems, Web Based Systems, Desktop"/>
+    <meta name="author" content="Otema">
+    <meta name="og:image" content="img/otema.png">
+    <link rel="apple-touch-icon" href="https://cdn.bitrix24.com/b8211411/landing/809/8099160196477a4a34f57c2e3a2d7e32/favicon-32x32.png" sizes="167x167">
 
-        <noscript>
-        <link data-font="g-font-open-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&subset=cyrillic" rel="stylesheet">
-        <link data-font="g-font-roboto" data-protected="true" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
-        <link data-font="g-font-roboto-slab" data-protected="true" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
-        <link data-font="g-font-ek-mukta" data-protected="true" href="https://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700" rel="stylesheet">
-        <link data-font="g-font-montserrat" data-protected="true" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,900&subset=cyrillic" rel="stylesheet">
-        <link data-font="g-font-alegreya-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700,900&subset=cyrillic-ext,latin-ext" rel="stylesheet">
-        <link data-font="g-font-cormorant-infant" data-protected="true" href="https://fonts.googleapis.com/css?family=Cormorant+Infant:400,400i,600,600i,700,700i&subset=cyrillic-ext,latin-ext" rel="stylesheet">
-        <link data-font="g-font-pt-sans-caption" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700&subset=cyrillic-ext,latin-ext" rel="stylesheet">
-        <link data-font="g-font-pt-sans-narrow" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Sans:400,700&subset=cyrillic-ext,latin-ext" rel="stylesheet">
-        <link data-font="g-font-pt-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic-ext,latin-ext" rel="stylesheet">
-        <link data-font="g-font-lobster" data-protected="true" href="https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic-ext,latin-ext" rel="stylesheet">
-        </noscript>
+    <!-- Google Fonts -->
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-open-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&subset=cyrillic">
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-roboto" data-protected="true" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=cyrillic,cyrillic-ext,latin-ext">
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-roboto-slab" data-protected="true" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&subset=cyrillic,cyrillic-ext,latin-ext">
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-ek-mukta" data-protected="true" href="https://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700">
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-montserrat" data-protected="true" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,900&subset=cyrillic">
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-alegreya-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700,900&subset=cyrillic-ext,latin-ext">
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-cormorant-infant" data-protected="true" href="https://fonts.googleapis.com/css?family=Cormorant+Infant:400,400i,600,600i,700,700i&subset=cyrillic-ext,latin-ext">
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-pt-sans-caption" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700&subset=cyrillic-ext,latin-ext">
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-pt-sans-narrow" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Sans:400,700&subset=cyrillic-ext,latin-ext">
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-pt-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic-ext,latin-ext">
+    <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-lobster" data-protected="true" href="https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic-ext,latin-ext">
 
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <script type="text/javascript" data-skip-moving="true">(function (w, d, n) {
-                var cl = "bx-core";
-                var ht = d.documentElement;
-                var htc = ht ? ht.className : undefined;
-                if (htc === undefined || htc.indexOf(cl) !== -1) {
-                    return;
+    <noscript>
+    <link data-font="g-font-open-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&subset=cyrillic" rel="stylesheet">
+    <link data-font="g-font-roboto" data-protected="true" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
+    <link data-font="g-font-roboto-slab" data-protected="true" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
+    <link data-font="g-font-ek-mukta" data-protected="true" href="https://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700" rel="stylesheet">
+    <link data-font="g-font-montserrat" data-protected="true" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,900&subset=cyrillic" rel="stylesheet">
+    <link data-font="g-font-alegreya-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700,900&subset=cyrillic-ext,latin-ext" rel="stylesheet">
+    <link data-font="g-font-cormorant-infant" data-protected="true" href="https://fonts.googleapis.com/css?family=Cormorant+Infant:400,400i,600,600i,700,700i&subset=cyrillic-ext,latin-ext" rel="stylesheet">
+    <link data-font="g-font-pt-sans-caption" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700&subset=cyrillic-ext,latin-ext" rel="stylesheet">
+    <link data-font="g-font-pt-sans-narrow" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Sans:400,700&subset=cyrillic-ext,latin-ext" rel="stylesheet">
+    <link data-font="g-font-pt-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic-ext,latin-ext" rel="stylesheet">
+    <link data-font="g-font-lobster" data-protected="true" href="https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic-ext,latin-ext" rel="stylesheet">
+    </noscript>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script type="text/javascript" data-skip-moving="true">(function (w, d, n) {
+            var cl = "bx-core";
+            var ht = d.documentElement;
+            var htc = ht ? ht.className : undefined;
+            if (htc === undefined || htc.indexOf(cl) !== -1) {
+                return;
+            }
+            var ua = n.userAgent;
+            if (/(iPad;)|(iPhone;)/i.test(ua)) {
+                cl += " bx-ios";
+            } else if (/Android/i.test(ua)) {
+                cl += " bx-android";
+            }
+            cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");
+            cl += w.devicePixelRatio && w.devicePixelRatio >= 2 ? " bx-retina" : " bx-no-retina";
+            var ieVersion = -1;
+            if (/AppleWebKit/.test(ua)) {
+                cl += " bx-chrome";
+            } else if ((ieVersion = getIeVersion()) > 0) {
+                cl += " bx-ie bx-ie" + ieVersion;
+                if (ieVersion > 7 && ieVersion < 10 && !isDoctype()) {
+                    cl += " bx-quirks";
                 }
-                var ua = n.userAgent;
-                if (/(iPad;)|(iPhone;)/i.test(ua)) {
-                    cl += " bx-ios";
-                } else if (/Android/i.test(ua)) {
-                    cl += " bx-android";
+            } else if (/Opera/.test(ua)) {
+                cl += " bx-opera";
+            } else if (/Gecko/.test(ua)) {
+                cl += " bx-firefox";
+            }
+            if (/Macintosh/i.test(ua)) {
+                cl += " bx-mac";
+            }
+            ht.className = htc ? htc + " " + cl : cl;
+            function isDoctype() {
+                if (d.compatMode) {
+                    return d.compatMode == "CSS1Compat";
                 }
-                cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");
-                cl += w.devicePixelRatio && w.devicePixelRatio >= 2 ? " bx-retina" : " bx-no-retina";
-                var ieVersion = -1;
-                if (/AppleWebKit/.test(ua)) {
-                    cl += " bx-chrome";
-                } else if ((ieVersion = getIeVersion()) > 0) {
-                    cl += " bx-ie bx-ie" + ieVersion;
-                    if (ieVersion > 7 && ieVersion < 10 && !isDoctype()) {
-                        cl += " bx-quirks";
-                    }
-                } else if (/Opera/.test(ua)) {
-                    cl += " bx-opera";
-                } else if (/Gecko/.test(ua)) {
-                    cl += " bx-firefox";
+                return d.documentElement && d.documentElement.clientHeight;
+            }
+            function getIeVersion() {
+                if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)) {
+                    return -1;
                 }
-                if (/Macintosh/i.test(ua)) {
-                    cl += " bx-mac";
+                var rv = -1;
+                if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)) {
+                    rv = 11;
+                } else if (!!d.documentMode && d.documentMode >= 10) {
+                    rv = 10;
+                } else if (!!d.documentMode && d.documentMode >= 9) {
+                    rv = 9;
+                } else if (d.attachEvent && !/Opera/.test(ua)) {
+                    rv = 8;
                 }
-                ht.className = htc ? htc + " " + cl : cl;
-                function isDoctype() {
-                    if (d.compatMode) {
-                        return d.compatMode == "CSS1Compat";
-                    }
-                    return d.documentElement && d.documentElement.clientHeight;
-                }
-                function getIeVersion() {
-                    if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)) {
-                        return -1;
-                    }
-                    var rv = -1;
-                    if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)) {
+                if (rv == -1 || rv == 8) {
+                    var re;
+                    if (n.appName == "Microsoft Internet Explorer") {
+                        re = new RegExp("MSIE ([0-9]+[\.0-9]*)");
+                        if (re.exec(ua) != null) {
+                            rv = parseFloat(RegExp.$1);
+                        }
+                    } else if (n.appName == "Netscape") {
                         rv = 11;
-                    } else if (!!d.documentMode && d.documentMode >= 10) {
-                        rv = 10;
-                    } else if (!!d.documentMode && d.documentMode >= 9) {
-                        rv = 9;
-                    } else if (d.attachEvent && !/Opera/.test(ua)) {
-                        rv = 8;
-                    }
-                    if (rv == -1 || rv == 8) {
-                        var re;
-                        if (n.appName == "Microsoft Internet Explorer") {
-                            re = new RegExp("MSIE ([0-9]+[\.0-9]*)");
-                            if (re.exec(ua) != null) {
-                                rv = parseFloat(RegExp.$1);
-                            }
-                        } else if (n.appName == "Netscape") {
-                            rv = 11;
-                            re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");
-                            if (re.exec(ua) != null) {
-                                rv = parseFloat(RegExp.$1);
-                            }
+                        re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");
+                        if (re.exec(ua) != null) {
+                            rv = parseFloat(RegExp.$1);
                         }
                     }
-                    return rv;
                 }
+                return rv;
             }
-            )(window, document, navigator);</script>
+        }
+        )(window, document, navigator);</script>
 
 
-        <link href="resources\js\main\core\css\core.min.css?14290239272854" type="text/css" rel="stylesheet">
-        <link href="resources\js\intranet\intranet-common.min.css?152751404761705" type="text/css" rel="stylesheet">
-        <link href="resources\components\bitrix\landing.pub\templates\.default\style.min.css?1538388755653" type="text/css" rel="stylesheet">
-        <link href="resources\templates\landing24\assets\vendor\slick-carousel\slick\slick.min.css?15382278861329" type="text/css" rel="stylesheet">
-        <link href="resources\templates\landing24\assets\vendor\vendors_base.min.css?1538497062193074" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\assets\vendor\icon-awesome\css\font-awesome.min.css?153822788630990" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\assets\vendor\icon-line\css\simple-line-icons.min.css?153822788610965" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\assets\vendor\icon-line-pro\style.min.css?1538227886127895" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\assets\vendor\icon-hs\style.min.css?15382278861139" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\assets\vendor\icon-etlinefont\style.min.css?15382278866472" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\themes\themes_core.min.css?1538497062415683" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\assets\css\custom.min.css?15383887552385" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\assets\css\themes_custom.min.css?153838875515341" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\themes\2business\business_custom.min.css?15383887553123" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\themes\2business\business_custom.min.css?15383887553123" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\themes\2business\business.min.css?1538388755466200" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\themes\2business\business.min.css?1538388755466200" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\themes-typo\2business\business-typo.css?1538227885520" type="text/css" data-template-style="true" rel="stylesheet">
-        <link href="resources\templates\landing24\template_styles.min.css?1538227886352" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\js\main\core\css\core.min.css?14290239272854" type="text/css" rel="stylesheet">
+    <link href="bitrix\js\intranet\intranet-common.min.css?152751404761705" type="text/css" rel="stylesheet">
+    <link href="bitrix\components\bitrix\landing.pub\templates\.default\style.min.css?1538388755653" type="text/css" rel="stylesheet">
+    <link href="bitrix\templates\landing24\assets\vendor\slick-carousel\slick\slick.min.css?15382278861329" type="text/css" rel="stylesheet">
+    <link href="bitrix\templates\landing24\assets\vendor\vendors_base.min.css?1538497062193074" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\assets\vendor\icon-awesome\css\font-awesome.min.css?153822788630990" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\assets\vendor\icon-line\css\simple-line-icons.min.css?153822788610965" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\assets\vendor\icon-line-pro\style.min.css?1538227886127895" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\assets\vendor\icon-hs\style.min.css?15382278861139" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\assets\vendor\icon-etlinefont\style.min.css?15382278866472" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\themes\themes_core.min.css?1538497062415683" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\assets\css\custom.min.css?15383887552385" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\assets\css\themes_custom.min.css?153838875515341" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\themes\2business\business_custom.min.css?15383887553123" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\themes\2business\business_custom.min.css?15383887553123" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\themes\2business\business.min.css?1538388755466200" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\themes\2business\business.min.css?1538388755466200" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\themes-typo\2business\business-typo.css?1538227885520" type="text/css" data-template-style="true" rel="stylesheet">
+    <link href="bitrix\templates\landing24\template_styles.min.css?1538227886352" type="text/css" data-template-style="true" rel="stylesheet">
+    <!--==========================================Chat Plugin=====================================================-->
+    <script data-skip-moving="true">
+        (function (w, d, u) {
+            var s = d.createElement('script');s.async = 1;s.src = u + '?' + (Date.now() / 60000 | 0);
+            var h = d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s, h);
+        })(window, document, 'https://cdn.bitrix24.com/b8211411/crm/site_button/loader_2_w9by13.js');
+    </script>
+    <!--===========================================================================================================-->
 
+    <meta name="robots" content="all">
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-124682233-1" data-skip-moving="true"></script>
+    <script type="text/javascript" data-skip-moving="true">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments)}
+        ;
+        gtag('js', new Date());
 
-
-        <meta name="robots" content="all">
-        <!-- Global Site Tag (gtag.js) - Google Analytics -->
-        <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-124682233-1" data-skip-moving="true"></script>
-        <script type="text/javascript" data-skip-moving="true">
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-                dataLayer.push(arguments)
-            }
-            ;
-            gtag('js', new Date());
-
-            gtag('config', 'UA-124682233-1');
-        </script>
-
-
-
-        <meta name="og:url" content="https://b24-2gmasb.bitrix24.site/"> <meta name="og:title" content="Company"><meta name="og:description" content="Create a contemporary website for your business. Reach out to new customers with your new business card on the internet."><meta name="og:image" content="https://cdn.bitrix24.site/bitrix/images/demo/page/corporate/preview.jpg"><meta name="og:type" content="website"><link rel="icon" type="image/png" href="https://dcnt5qvi2hv76.cloudfront.net/b8211411/resize_cache/322/047e4a127947eff3c7d861cc2f113186/landing/00b/00bdbcd87be26b5349664d7ca9b9af4f/Otema.png?h=b24-2gmasb.bitrix24.com" sizes="16x16"><link rel="icon" type="image/png" href="https://dcnt5qvi2hv76.cloudfront.net/b8211411/resize_cache/322/45fd33a620da2e44653e6a92c96d9446/landing/00b/00bdbcd87be26b5349664d7ca9b9af4f/Otema.png?h=b24-2gmasb.bitrix24.com" sizes="32x32"><link rel="icon" type="image/png" href="https://cdn.bitrix24.com/b8211411/landing/00b/00bdbcd87be26b5349664d7ca9b9af4f/Otema.png" sizes="96x96"><link rel="apple-touch-icon" href="https://cdn.bitrix24.com/b8211411/landing/00b/00bdbcd87be26b5349664d7ca9b9af4f/Otema.png" sizes="120x120"><link rel="apple-touch-icon" href="https://cdn.bitrix24.com/b8211411/landing/00b/00bdbcd87be26b5349664d7ca9b9af4f/Otema.png" sizes="180x180"><link rel="apple-touch-icon" href="https://cdn.bitrix24.com/b8211411/landing/00b/00bdbcd87be26b5349664d7ca9b9af4f/Otema.png" sizes="152x152"><link rel="apple-touch-icon" href="https://cdn.bitrix24.com/b8211411/landing/00b/00bdbcd87be26b5349664d7ca9b9af4f/Otema.png" sizes="167x167"></head>
-
+        gtag('config', 'UA-124682233-1');
+    </script>
+</head>
     <body class="g-upper-show" data-event-tracker='["click","show"]'>
         <main class="landing-public-mode"><div class="landing-main"><div id="block1" class="block-wrapper"><header class="landing-block landing-block-menu g-bg-white u-header u-header--floating u-header--floating-relative">
                         <div class="u-header__section g-transition-0_3 g-py-7 g-py-23--md u-header__section--light" data-header-fix-moment-exclude="g-py-23--md" data-header-fix-moment-classes="g-py-17--md">
@@ -1215,7 +1228,8 @@
                 window.BX.message = function (mess) {
                     if (typeof mess == 'object')
                         for (var i in mess)
-                            BX.message[i] = mess[i]; return true;};</script>
+                            BX.message[i] = mess[i]; return true;
+                };</script>
         <script type="text/javascript">(window.BX || top.BX).message({'JS_CORE_LOADING': 'Loading...', 'JS_CORE_WINDOW_CLOSE': 'Close', 'JS_CORE_WINDOW_EXPAND': 'Expand', 'JS_CORE_WINDOW_NARROW': 'Restore', 'JS_CORE_WINDOW_SAVE': 'Save', 'JS_CORE_WINDOW_CANCEL': 'Cancel', 'JS_CORE_H': 'h', 'JS_CORE_M': 'm', 'JS_CORE_S': 's', 'JS_CORE_NO_DATA': '- No data -', 'JSADM_AI_HIDE_EXTRA': 'Hide extra items', 'JSADM_AI_ALL_NOTIF': 'All notifications', 'JSADM_AUTH_REQ': 'Authentication is required!', 'JS_CORE_WINDOW_AUTH': 'Log In', 'JS_CORE_IMAGE_FULL': 'Full size', 'JS_CORE_WINDOW_CONTINUE': 'Continue'});</script>
         <script type="text/javascript">(window.BX || top.BX).message({'LANGUAGE_ID': 'en', 'FORMAT_DATE': 'MM/DD/YYYY', 'FORMAT_DATETIME': 'MM/DD/YYYY H:MI:SS T', 'COOKIE_PREFIX': 'BITRIX_SM', 'SERVER_TZ_OFFSET': '10800', 'SITE_ID': 's1', 'SITE_DIR': '/', 'USER_ID': '', 'SERVER_TIME': '1541089623', 'USER_TZ_OFFSET': '0', 'USER_TZ_AUTO': 'Y', 'bitrix_sessid': '28b98d73ffa005fc63636f6208d777b8'});</script><script type="text/javascript" src="resources\js\main\core\core.min.js?153815138575710"></script>
         <script type="text/javascript" src="resources\js\main\core\core_promise.min.js?15381513852478"></script>
