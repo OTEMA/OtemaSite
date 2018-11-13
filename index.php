@@ -1,9 +1,7 @@
 ﻿<!DOCTYPE html>
 <html xml:lang="en" lang="en" class="">
-
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <title>Otema|The|Leading|Technologies|services|provider</title>
     <link rel="icon" type="image/png" href="https://dcnt5qvi2hv76.cloudfront.net/b8211411/resize_cache/48/047e4a127947eff3c7d861cc2f113186/landing/809/8099160196477a4a34f57c2e3a2d7e32/favicon-32x32.png?h=b24-2gmasb.bitrix24.com" sizes="16x16">
     <link rel="icon" type="image/png" href="https://cdn.bitrix24.com/b8211411/landing/809/8099160196477a4a34f57c2e3a2d7e32/favicon-32x32.png" sizes="32x32">
@@ -17,7 +15,6 @@
     <meta name="author" content="Otema">
     <meta name="og:image" content="img/otema.png">
     <link rel="apple-touch-icon" href="https://cdn.bitrix24.com/b8211411/landing/809/8099160196477a4a34f57c2e3a2d7e32/favicon-32x32.png" sizes="167x167">
-
     <!-- Google Fonts -->
     <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-open-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&subset=cyrillic">
     <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-roboto" data-protected="true" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=cyrillic,cyrillic-ext,latin-ext">
@@ -30,7 +27,6 @@
     <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-pt-sans-narrow" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Sans:400,700&subset=cyrillic-ext,latin-ext">
     <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-pt-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic-ext,latin-ext">
     <link rel="preload" as="style" onload="this.removeAttribute('onload');this.rel = 'stylesheet'" data-font="g-font-lobster" data-protected="true" href="https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic-ext,latin-ext">
-
     <noscript>
     <link data-font="g-font-open-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&subset=cyrillic" rel="stylesheet">
     <link data-font="g-font-roboto" data-protected="true" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
@@ -44,7 +40,6 @@
     <link data-font="g-font-pt-sans" data-protected="true" href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic-ext,latin-ext" rel="stylesheet">
     <link data-font="g-font-lobster" data-protected="true" href="https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic-ext,latin-ext" rel="stylesheet">
     </noscript>
-
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <script type="text/javascript" data-skip-moving="true">(function (w, d, n) {
             var cl = "bx-core";
@@ -117,8 +112,6 @@
             }
         }
         )(window, document, navigator);</script>
-
-
     <link href="bitrix\js\main\core\css\core.min.css?14290239272854" type="text/css" rel="stylesheet">
     <link href="bitrix\js\intranet\intranet-common.min.css?152751404761705" type="text/css" rel="stylesheet">
     <link href="bitrix\components\bitrix\landing.pub\templates\.default\style.min.css?1538388755653" type="text/css" rel="stylesheet">
@@ -149,7 +142,6 @@
         })(window, document, 'https://cdn.bitrix24.com/b8211411/crm/site_button/loader_2_w9by13.js');
     </script>
     <!--===========================================================================================================-->
-
     <meta name="robots" content="all">
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-124682233-1" data-skip-moving="true"></script>
@@ -160,7 +152,6 @@
         }
         ;
         gtag('js', new Date());
-
         gtag('config', 'UA-124682233-1');
     </script>
 </head>
@@ -174,7 +165,6 @@
                                     <img class="landing-block-node-menu-logo u-header__logo-img u-header__logo-img--main g-max-width-180" src="https://cdn.bitrix24.com/b8211411/landing/bec/becc4a50d9c96a8c14396358d435d7f0/Otema.png" alt="Otema" data-fileid="46">
                                 </a>
                                 <!-- End Logo -->
-
                                 <!-- Navigation -->
                                 <div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar2">
                                     <ul class="landing-block-node-menu-list js-scroll-nav navbar-nav text-uppercase g-letter-spacing-1 g-font-size-12 g-pt-20 g-pt-0--lg ml-auto"><li class="landing-block-node-menu-list-item nav-item g-mr-15--lg g-mb-7 g-mb-0--lg active">
@@ -194,7 +184,6 @@
                                         </li></ul>
                                 </div>
                                 <!-- End Navigation -->
-
                                 <!-- Responsive Toggle Button -->
                                 <button class="navbar-toggler btn g-line-height-1 g-brd-none g-pa-0 g-mt-12 ml-auto" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar2" data-toggle="collapse" data-target="#navBar2">
                                     <span class="hamburger hamburger--slider">
@@ -214,7 +203,6 @@
                                 <div class="row align-items-center">
                                     <div class="landing-block-node-container js-animation fadeInLeft col-sm-10 col-lg-8 animation-none">
                                         <h1 class="landing-block-node-title g-color-white g-font-weight-300 g-font-size-50 g-mb-30 g-mb-50--sm">The Home Of Digital solutions</h1>
-
                                         <div class="row">
                                             <div class="landing-block-node-card col-md-6 g-mb-10 g-mb-30--md">
                                                 <div class="media">
@@ -228,7 +216,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-
                                             <div class="landing-block-node-card col-md-6 g-mb-10 g-mb-30--md">
                                                 <div class="media">
                                                     <span class="landing-block-node-card-icon-container d-flex u-icon-v1 g-width-50 g-height-50 g-color-white g-bg-white-opacity-0_1 g-font-size-26 g-line-height-1 rounded-circle g-pos-rel g-pa-12 mr-3">
@@ -240,7 +227,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-
                                             <div class="landing-block-node-card col-md-6 g-mb-10 g-mb-30--md">
                                                 <div class="media">
                                                     <span class="landing-block-node-card-icon-container d-flex u-icon-v1 g-width-50 g-height-50 g-color-white g-bg-white-opacity-0_1 g-font-size-26 g-line-height-1 rounded-circle g-pos-rel g-pa-12 mr-3">
@@ -254,7 +240,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-
                                             <div class="landing-block-node-card col-md-6 g-mb-10 g-mb-30--md">
                                                 <div class="media">
                                                     <span class="landing-block-node-card-icon-container d-flex u-icon-v1 g-width-50 g-height-50 g-color-white g-bg-white-opacity-0_1 g-font-size-26 g-line-height-1 rounded-circle g-pos-rel g-pa-12 mr-3">
@@ -287,38 +272,31 @@
                 </section></div><div id="block3" class="block-wrapper"><section class="container-fluid px-0 landing-block g-bg-secondary">
                     <div class="row no-gutters">
                         <div class="landing-block-node-left-img g-min-height-300 col-lg-4 g-bg-img-hero" style="background-image: url('https://cdn.bitrix24.site/bitrix/images/landing/business/190x471/img1.png');"></div>
-
                         <div class="landing-block-node-center col-md-6 col-lg-4 g-flex-centered g-bg-secondary g-theme-business-bg-blue-dark-v1">
                             <div class="text-center g-color-gray-light-v2 g-pa-30">
                                 <div class="landing-block-node-header text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
                                     <h4 class="landing-block-node-center-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20 js-animation animation-none"></h4>
                                     <h2 class="landing-block-node-center-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-color-white g-mb-minus-10 g-font-size-27 g-text-transform-none js-animation animation-none"><span style="font-weight: normal;">What Does Otema Do?</span></h2>
                                 </div>
-
                                 <p class="landing-block-node-center-text g-color-gray-light-v2 mb-0 js-animation animation-none">
                             </div>
                         </div>
-
                         <div class="col-md-6 col-lg-4 landing-block-node-right">
                             <div class="js-carousel g-pb-90" data-infinite="true" data-slides-show="true" data-pagi-classes="u-carousel-indicators-v1 g-absolute-centered--x g-bottom-30">
                                 <div class="js-slide landing-block-card-right slick-slide landing-card">
                                     <img class="landing-block-node-right-img img-fluid w-100" src="https://cdn.bitrix24.com/b8211411/landing/ade/ade358768700b579894c773290f5d305/Web-Development.jpg" alt="Web development" data-fileid="166">
-
                                     <div class="g-pa-30">
                                         <h3 class="landing-block-node-right-title g-font-weight-700 g-font-size-20 g-mb-10 g-color-black g-text-transform-none js-animation animation-none">Web Design &amp; Development</h3>
                                         <div class="landing-block-node-right-text g-color-black-opacity-0_6 js-animation animation-none"><p>We design and develop responsive and aesthetic websites using the latest technologies and incorporating various tools that will help you or your businesses achieve growth and exhibit a strong online online presence.</p></div>
                                     </div>
                                 </div>
-
                                 <div class="js-slide landing-block-card-right slick-slide landing-card">
                                     <img class="landing-block-node-right-img img-fluid w-100" src="https://cdn.bitrix24.com/b8211411/landing/8a3/8a33ac9c6b7f5c018b1b5ee28b2b75f8/gg.png" alt="Mobile Development" data-fileid="72">
-
                                     <div class="g-pa-30">
                                         <h3 class="landing-block-node-right-title g-font-weight-700 g-font-size-20 g-mb-10 g-color-black g-text-transform-none js-animation animation-none">Mobile Application Development</h3>
                                         <div class="landing-block-node-right-text g-color-black-opacity-0_6 js-animation animation-none">Delivering customer-centric range of scalable and business oriented mobile development services</div>
                                     </div>
                                 </div>
-
                                 <div class="js-slide landing-block-card-right slick-slide landing-card">
                                     <img class="landing-block-node-right-img img-fluid w-100" src="https://cdn.bitrix24.com/b8211411/landing/6fc/6fca9d6f75a0a9e9707751c908414839/DesktopApplicationDevelopment.jpg" alt="Desktop Application Development" data-fileid="74">
 
@@ -340,35 +318,29 @@
                                     <a class="landing-block-node-button text-uppercase btn btn-xl g-font-weight-700 g-font-size-12 g-rounded-50 u-btn-outline-darkgray js-animation animation-none" href="#" tabindex="0" target="_self">LEARN MORE</a>
                                 </div>
                             </div>
-
                             <div class="landing-block-node-img col-md-6 g-min-height-300 g-bg-img-hero g-px-0 g-bg-size-contain--xs g-bg-size-cover--sm" style="background-image: url('https://cdn.bitrix24.com/b8211411/landing/d85/d8515d1469a543f5da7f0d5a32665206/banner1.png');" data-fileid="120"></div>
                         </div>
                     </div>
                 </section></div><div id="block5" class="block-wrapper"><section class="landing-block container-fluid px-0 g-bg-darkpurple-lineargradient">
                     <div class="row no-gutters align-items-start">
-
                         <div class="landing-block-card js-animation fadeIn col-md-6 col-lg-6 g-flex-centered landing-card animation-none">
                             <div class="landing-block-node-card-container text-center g-pa-30 w-100">
                                 <div class="landing-block-node-card-header text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
                                     <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20"> </h4>
                                     <h2 class="landing-block-node-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-white g-mb-minus-10">Vision</h2>
                                 </div>
-
                                 <div class="landing-block-node-text g-color-gray-light-v2"><p>To achieve excellence in solution provision, development and implementation of software solutions by incorporating research, consultancy and modern technologies and tools.</p></div>
                             </div>
                         </div>
-
                         <div class="landing-block-card js-animation fadeIn col-md-6 col-lg-6 g-flex-centered landing-card animation-none">
                             <div class="landing-block-node-card-container text-center g-pa-30 w-100">
                                 <div class="landing-block-node-card-header text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
                                     <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20"> </h4>
                                     <h2 class="landing-block-node-title h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-white g-mb-minus-10">mission</h2>
                                 </div>
-
                                 <div class="landing-block-node-text g-color-gray-light-v2"><p>To be a leading software company in the world providing quality technological services and products that provide equal opportunity to all while improving the livelihood of the society.</p></div>
                             </div>
                         </div>
-
                     </div>
                 </section></div><div id="block344" class="block-wrapper"><section class="landing-block js-animation fadeInUp g-pt-20 g-pb-20">
                     <div class="container">
@@ -378,16 +350,11 @@
                         </div>
                     </div>
                 </section></div><div id="block78" class="block-wrapper"><section class="landing-block l-d-md-none">
-
                     <div class="container g-pt-30 g-pb-20">
                         <div class="row">
-
-
-
                             <div class="landing-block-card col-sm-6 col-md-4 g-mb-20 js-animation animation-none animated landing-card">
                                 <article class="u-shadow-v28 g-bg-white">
                                     <img class="landing-block-node-img img-fluid w-100" src="https://cdn.bitrix24.com/b8211411/landing/76a/76a21e7f7bb5510dbc8397ddb44f4616/web-design-and-web-development.png" alt="Web development" data-fileid="348" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
-
                                     <div class="g-pos-rel">
                                         <!-- SVG Background -->
                                         <svg class="g-pos-abs g-left-0 g-right-0" version="1.1" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="140px" viewbox="20 -20 300 100" style="top: -70%;">
@@ -401,7 +368,6 @@
                                               c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#fff"></path>
                                         </svg>
                                         <!-- End SVG Background -->
-
                                         <div class="g-pos-rel g-z-index-1 g-pa-30">
                                             <h3 class="h5 mb-3">
                                                 <a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover d-inline-block" href="#" target="_self">Web Design and development</a>
@@ -411,12 +377,9 @@
                                     </div>
                                 </article>
                             </div>
-
-
                             <div class="landing-block-card col-sm-6 col-md-4 g-mb-20 js-animation animation-none animated landing-card">
                                 <article class="u-shadow-v28 g-bg-white">
                                     <img class="landing-block-node-img img-fluid w-100" src="https://cdn.bitrix24.com/b8211411/landing/84e/84ef1fdb5d51c0e0a05b3bd7355c7981/desktop-application.png" alt="Desktop Application Development" data-fileid="344" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
-
                                     <div class="g-pos-rel">
                                         <!-- SVG Background -->
                                         <svg class="g-pos-abs g-left-0 g-right-0" version="1.1" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="140px" viewbox="20 -20 300 100" style="top: -70%;">
@@ -430,7 +393,6 @@
                                               c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#fff"></path>
                                         </svg>
                                         <!-- End SVG Background -->
-
                                         <div class="g-pos-rel g-z-index-1 g-pa-30">
                                             <h3 class="h5 mb-3">
                                                 <a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover d-inline-block" href="#" target="_self">Desktop Application Development</a>
@@ -440,11 +402,9 @@
                                     </div>
                                 </article>
                             </div>
-
                             <div class="landing-block-card col-sm-6 col-md-4 g-mb-20 js-animation animation-none animated landing-card">
                                 <article class="u-shadow-v28 g-bg-white">
                                     <img class="landing-block-node-img img-fluid w-100" src="https://cdn.bitrix24.com/b8211411/landing/306/306c6e923c6f8d4f73cbf1b6029c8b72/mobile_dev.png" alt="Mobile Development" data-fileid="340" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
-
                                     <div class="g-pos-rel">
                                         <!-- SVG Background -->
                                         <svg class="g-pos-abs g-left-0 g-right-0" version="1.1" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="140px" viewbox="20 -20 300 100" style="top: -70%;">
@@ -458,7 +418,6 @@
                                               c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#fff"></path>
                                         </svg>
                                         <!-- End SVG Background -->
-
                                         <div class="g-pos-rel g-z-index-1 g-pa-30">
                                             <h3 class="h5 mb-3">
                                                 <a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover d-inline-block" href="#" target="_self">Mobile apps</a>
@@ -470,7 +429,6 @@
                             </div><div class="landing-block-card col-sm-6 col-md-4 g-mb-20 js-animation animation-none animated landing-card">
                                 <article class="u-shadow-v28 g-bg-white">
                                     <img class="landing-block-node-img img-fluid w-100" src="https://cdn.bitrix24.com/b8211411/landing/b98/b984ead60c1d54a2c5045abc29b62b6e/e-commerce_soln.png" alt="E commerce Development" data-fileid="342" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
-
                                     <div class="g-pos-rel">
                                         <!-- SVG Background -->
                                         <svg class="g-pos-abs g-left-0 g-right-0" version="1.1" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="140px" viewbox="20 -20 300 100" style="top: -70%;">
@@ -484,7 +442,6 @@
                                               c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#fff"></path>
                                         </svg>
                                         <!-- End SVG Background -->
-
                                         <div class="g-pos-rel g-z-index-1 g-pa-30">
                                             <h3 class="h5 mb-3">
                                                 <a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover d-inline-block" href="#" target="_self">E commerce Solutions</a>
@@ -496,7 +453,6 @@
                             </div><div class="landing-block-card col-sm-6 col-md-4 g-mb-20 js-animation animation-none animated landing-card">
                                 <article class="u-shadow-v28 g-bg-white">
                                     <img class="landing-block-node-img img-fluid w-100" src="https://cdn.bitrix24.com/b8211411/landing/5a3/5a378ff7155f329a1f33b4de24264b04/maintenance-1.jpg" alt="Support And Maintenance" data-fileid="164">
-
                                     <div class="g-pos-rel">
                                         <!-- SVG Background -->
                                         <svg class="g-pos-abs g-left-0 g-right-0" version="1.1" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="140px" viewbox="20 -20 300 100" style="top: -70%;">
@@ -510,7 +466,6 @@
                                               c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#fff"></path>
                                         </svg>
                                         <!-- End SVG Background -->
-
                                         <div class="g-pos-rel g-z-index-1 g-pa-30">
                                             <h3 class="h5 mb-3">
                                                 <a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover d-inline-block" href="#" target="_self">Support &amp; Maintenance</a>
@@ -522,7 +477,6 @@
                             </div><div class="landing-block-card col-sm-6 col-md-4 g-mb-20 js-animation animation-none animated landing-card">
                                 <article class="u-shadow-v28 g-bg-white">
                                     <img class="landing-block-node-img img-fluid w-100" src="https://cdn.bitrix24.com/b8211411/landing/da7/da7b3099173c2cf9a375eadd4d2d34bd/Consultancy1.jpg" alt="Consultancy" data-fileid="338" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
-
                                     <div class="g-pos-rel">
                                         <!-- SVG Background -->
                                         <svg class="g-pos-abs g-left-0 g-right-0" version="1.1" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="140px" viewbox="20 -20 300 100" style="top: -70%;">
@@ -536,7 +490,6 @@
                                               c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#fff"></path>
                                         </svg>
                                         <!-- End SVG Background -->
-
                                         <div class="g-pos-rel g-z-index-1 g-pa-30">
                                             <h3 class="h5 mb-3">
                                                 <a class="landing-block-node-link u-link-v5 g-color-main g-color-primary--hover d-inline-block" href="#" target="_self">Consultancy &amp;Training</a>
@@ -547,9 +500,7 @@
                                 </article>
                             </div></div>
                     </div>
-
                 </section></div><div id="block362" class="block-wrapper"><section class="landing-block g-theme-business-bg-blue-dark-v1 g-pt-20 g-pb-20">
-
                     <div class="container text-center g-max-width-800 g-color-gray-light-v2 g-mb-20">
                         <div class="landing-block-node-header text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
                             <h4 class="landing-block-node-subtitle h6 g-font-weight-800 g-font-size-12 g-letter-spacing-1 g-color-primary g-mb-20">Work process</h4>
